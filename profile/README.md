@@ -1,9 +1,9 @@
-## ✨ Introduction
+## IQ BENE
 
-This project is a free, open-source, API-first, headless platform built using Spring Boot, Kafka, Postgresql, and ReactJs.
+Venue Intelligence Platform — turns scattered venue files into a structured, searchable knowledge base for event planning teams.
 
-It plays nicely with Docker and Kubernetes.
+Built on the [IQKV](https://github.com/IQKV) open-source foundation.
 
-### 📑 License
+### License
 
-This project is licensed under the Apache License. Please take a look at the [LICENSE](../LICENSE) file for more details.
+Proprietary. See [LICENSE](../LICENSE) for details.
