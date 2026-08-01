@@ -1,6 +1,6 @@
-## Venue Intelligence Platform — BENE
+## BENE Intelligence
 
-It turns scattered venue files into a structured, searchable knowledge base for event planning teams.
+Venue Intelligence Platform — turns scattered venue files into a structured, searchable knowledge base for event planning teams.
 
 Built on the [iQ Key Value Platform](https://github.com/IQKV) open-source foundation.
 

@@ -1,6 +1,6 @@
-# iQ BENE — GitHub Profile
+# BENE Intelligence — GitHub Profile
 
-Default community health files and GitHub organization profile for iQ BENE.
+Default community health files and GitHub organization profile for BENE Intelligence.
 
 ---
 
