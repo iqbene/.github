@@ -1,4 +1,4 @@
-## BENE Intelligence
+## VenueMi — AI assist for event agencies: personal catalog to salesroom
 
 Venue Intelligence Platform — turns scattered venue files into a structured, searchable knowledge base for event planning teams.
 

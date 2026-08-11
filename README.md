@@ -1,6 +1,6 @@
-# BENE Intelligence — GitHub Profile
+# VenueMi Planner AI Assistant — GitHub Profile
 
-Default community health files and GitHub organization profile for BENE Intelligence.
+Default community health files and GitHub organization profile for VenueMi Planner AI Assistant.
 
 ---
 
