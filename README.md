@@ -1,6 +1,6 @@
-# VenueMi AI Assistant for Planners — GitHub Profile
+# Shortlisty AI Assistant for Planners — GitHub Profile
 
-Default community health files and GitHub organization profile for VenueMi AI Assistant for Planners.
+Default community health files and GitHub organization profile for Shortlisty AI Assistant for Planners.
 
 ---
 
